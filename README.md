@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1WB3Zzb2S5EOB7vnewD-PCrcc4ClF4veA/view?usp=sharing"/>
+<img src="https://joelcodes.co/img/icon.png" width="300px'/>
 
 
 
