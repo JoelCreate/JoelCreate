@@ -1,4 +1,6 @@
-<img src="https://giphy.com/embed/UNTe3Q30Z4svUrvU0H/video" width="480"/>
+<img src="https://giphy.com/embed/l396LSsmg7xBwgkFy" width="480"/>
+
+
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JoelCreate&theme=onedark-duo&hide_border=true&mode=weekly&card_width=475" alt="GitHub Streak" /></a>
 <!--
