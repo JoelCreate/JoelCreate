@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JoelCreate&theme=onedark-duo&hide_border=true&mode=weekly&card_width=400" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelCreate)](https://github.com/JoelCreate/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelCreate&hide_progress=true)
 <!--
 **JoelCreate/JoelCreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
