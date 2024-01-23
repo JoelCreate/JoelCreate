@@ -1,5 +1,6 @@
-
-<img src="https://joelcodes.co/img/icon.png" width="300" height="auto"/>
+<div align="center">
+  <img src="https://joelcodes.co/img/icon.png" width="300" height="auto"/>
+</div>
 
 
 
