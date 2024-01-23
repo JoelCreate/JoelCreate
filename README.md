@@ -1,5 +1,5 @@
 
-![icon](https://github.com/JoelCreate/JoelCreate/assets/8229758/1754c51b-9d51-4f2e-b293-5d20a221a2b9 | width=300) 
+<img src="https://joelcodes.co/img/icon.png" width="300" height="auto"/>
 
 
 
