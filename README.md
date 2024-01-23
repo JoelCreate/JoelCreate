@@ -1,4 +1,4 @@
-<div align="center">
+<div width="400" align="center">
   <img src="https://joelcodes.co/img/icon.png" width="200" height="auto"/><br>
   <img src="https://joelcodes.co/img/LI-Logo.png" width="50" height="auto" />
 </div>
