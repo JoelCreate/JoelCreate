@@ -1,3 +1,10 @@
+<style>
+  h1 {
+    position: absolute;
+  }
+</style>
+
+<h1>Welcome!</h1>
 <img src="https://media.giphy.com/media/l396LSsmg7xBwgkFy/giphy.gif" width="480"/>
 
 
