@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://joelcodes.co/img/icon.png" width="200" height="auto"/>
+  <img src="joelcodes.co/img/LI-Logo.png" width="150" height"auto" />
 </div>
 
 
