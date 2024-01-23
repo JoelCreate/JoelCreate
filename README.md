@@ -1,9 +1,8 @@
 <div width="400" align="center">
-  <img src="https://joelcodes.co/img/icon.png" width="200" height="auto"/><br>
-  <img src="https://joelcodes.co/img/LI-Logo.png" width="50" height="auto" />
+  <img src="https://joelcodes.co/img/icon1.png" width="300" height="auto"/>  
 </div>
 
-
+<img src="https://joelcodes.co/img/LI-Logo.png" width="75" height="auto" />
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JoelCreate&theme=onedark-duo&hide_border=true&mode=weekly&card_width=475" alt="GitHub Streak" /></a>
 <!--
