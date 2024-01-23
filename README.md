@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://joelcodes.co/img/icon.png" width="300" height="auto"/>
+  <img src="https://joelcodes.co/img/icon.png" width="200" height="auto"/>
 </div>
 
 
