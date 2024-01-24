@@ -1,12 +1,10 @@
 <div width="400" align="center">
-  <img src="https://joelcodes.co/img/GithubIcon.png" width="300" height="auto"/><br><br>
+  <img src="https://joelcodes.co/img/GithubIcon.png" width="300" height="auto"/><br>
   <a href="https://www.linkedin.com/in/joel-wiesner/" target="_blank">
     <img src="https://joelcodes.co/img/LI-Logo.png" width="75" height="auto" />
   </a>
-  <h4>Hello there! 👋</h4> 
 </div>
-<hr>
-
+<h1>Why, hello there! </h1>
 <h4>About Me 🧔🏻‍♂️</h4>
 I'm a front end web developer from California, United States. 🌞
 <ul>
