@@ -3,9 +3,15 @@
   <a href="https://www.linkedin.com/in/joel-wiesner/" target="_blank">
     <img src="https://joelcodes.co/img/LI-Logo.png" width="75" height="auto" />
   </a>
+  <h4>Hello there! 👋</h4> 
 </div>
+<hr>
 
-
+<h4>About Me 🧔🏻‍♂️</h4>
+I'm a front end web developer from California, United States. 🌞
+<ul>
+  <li></li>
+</ul>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JoelCreate&theme=onedark-duo&hide_border=true&mode=weekly&card_width=475" alt="GitHub Streak" /></a>
 <!--
