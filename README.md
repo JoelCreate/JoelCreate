@@ -3,6 +3,7 @@
   <a href="https://www.linkedin.com/in/joel-wiesner/" target="_blank">
     <img src="https://joelcodes.co/img/LI-Logo.png" width="75" height="auto" />    
   </a><br>
+  ![](https://komarev.com/ghpvc/?username=JoelCreate&color=yellow)<br>
   <img src="https://media.giphy.com/media/d1HroJGXoqfDBT9e/giphy.gif" />
 </div>
 <h1>Why, hello there! </h1>
