@@ -6,13 +6,16 @@
   <!--<img src="https://media.giphy.com/media/d1HroJGXoqfDBT9e/giphy.gif" />-->
 </div>
 <h1>Why, hello there! 👋🏻</h1>
-<img src="https://komarev.com/ghpvc/?username=JoelCreate&style=flat-square"/>
-<h4>About Me 🧔🏻‍♂️</h4>
-I'm a front end web developer from California, United States. 🌞
-<ul>
-  <li></li>
-</ul>
+<h3>About Me 🧔🏻‍♂️</h3>
+<p>🌞 California, United States.</p>
+<p>👨🏻‍💻 Front end web developer</p>
+<p>🤖 Currently learning AI engineering</p>
+<p>📃 <a href="https://joelcodes.co/documents/Resume.pdf" target="_blank">Resume</a></p>
+<p>💻 <a href="https://joelcodes.co" target="_blank">Portfolio</a></p>
 
+<h1>Skills </h1>
+<h3>Coding 🔨</h3>
+<h3>Design 🖼️</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JoelCreate&theme=onedark-duo&hide_border=true&mode=weekly&card_width=475" alt="GitHub Streak" /></a>
 <!--
 **JoelCreate/JoelCreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
