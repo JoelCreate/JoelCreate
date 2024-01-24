@@ -12,6 +12,7 @@
 <p>🤖 Currently learning AI engineering</p>
 <p>📃 <a href="https://joelcodes.co/documents/Resume.pdf" target="_blank">Resume</a></p>
 <p>💻 <a href="https://joelcodes.co" target="_blank">Portfolio</a></p>
+<p>📫 <a href="mailto:j.wiesner88@gmail.com">Contact me</a></p>
 
 <h1>Skills </h1>
 <h3>Coding 🔨</h3>
