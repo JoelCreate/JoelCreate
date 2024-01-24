@@ -2,7 +2,8 @@
   <img src="https://joelcodes.co/img/GithubIcon.png" width="300" height="auto"/><br>
   <a href="https://www.linkedin.com/in/joel-wiesner/" target="_blank">
     <img src="https://joelcodes.co/img/LI-Logo.png" width="75" height="auto" />    
-  </a>
+  </a><br>
+  <img src="https://media.giphy.com/media/d1HroJGXoqfDBT9e/giphy.gif" />
 </div>
 <h1>Why, hello there! </h1>
 <h4>About Me 🧔🏻‍♂️</h4>
