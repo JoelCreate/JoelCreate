@@ -7,13 +7,14 @@
 </div>
 <h1>Why, hello there! 👋🏻</h1>
 <h3>About Me 🧔🏻‍♂️</h3>
-<p>🌞 California, United States.</p>
-<p>👨🏻‍💻 Front end web developer</p>
-<p>🤖 Currently learning AI engineering</p>
-<p>📃 <a href="https://joelcodes.co/documents/Resume.pdf" target="_blank">Resume</a></p>
-<p>💻 <a href="https://joelcodes.co" target="_blank">Portfolio</a></p>
-<p>📫 <a href="mailto:j.wiesner88@gmail.com">Contact me</a></p>
-
+<ul>
+  <li>🌞 California, United States.</li>
+  <li>👨🏻‍💻 Front end web developer</li>
+  <li>🤖 Currently learning AI engineering</li>
+  <li>📃 <a href="https://joelcodes.co/documents/Resume.pdf" target="_blank">Resume</a></li>
+  <li>💻 <a href="https://joelcodes.co" target="_blank">Portfolio</a></li>
+  <li>📫 <a href="mailto:j.wiesner88@gmail.com">Contact me</a></li>
+</ul>
 <h1>Skills </h1>
 <h3>Coding 🔨</h3>
 <h3>Design 🖼️</h3>
