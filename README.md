@@ -15,9 +15,9 @@
   <li>💻 <a href="https://joelcodes.co" target="_blank">Portfolio</a></li>
   <li>📫 <a href="mailto:j.wiesner88@gmail.com">Contact me</a></li>
 </ul>
-<h1>Skills </h1>
+<!--<h1>Skills </h1>
 <h3>Coding 🔨</h3>
-<h3>Design 🖼️</h3>
+<h3>Design 🖼️</h3>-->
 <!--
 **JoelCreate/JoelCreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
